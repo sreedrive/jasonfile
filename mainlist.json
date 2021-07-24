@@ -1,6 +1,4 @@
-
-  "categories": [
-    {
+  {
       "name": "Movies",
       "videos": [
         {
@@ -122,5 +120,4 @@
         }
       ]
     }
-  ]
 }
